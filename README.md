@@ -1,7 +1,6 @@
 <h1 align="center">
 Oi, eu sou Gustavo Martins!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=GustavoHTM&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="GustavoHTM" />-->
  <img src="https://gpvc.arturio.dev/GustavoHTM" alt="Profile views" align='right'/> <a href="https://github.com/GustavoHTM"> </a> 
 <br/>
 
@@ -9,7 +8,7 @@ Oi, eu sou Gustavo Martins!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full+Stack;Backend+com+Java;Frontend+com+Angular;Sempre+aprendendo+novas+tecnologias&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/GustavoHTM/GustavoHTM/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img align="left" src="https://github.com/GustavoHTM/GustavoHTM/blob/main/cropped_image.png" width="320" />
 <hr>
 
 GustavoHTM@github
@@ -20,9 +19,6 @@ GustavoHTM@github
 🌟 Principais linguagens: Java, Angular-CLI
 🚩 Interesse em arquitetura e desenvolvimento de backend.
 💖 Em um relacionamento sério com o java2pojo.
-
-ruby
-Copiar código
 <hr>
 
 
