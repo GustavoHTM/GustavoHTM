@@ -5,17 +5,17 @@ Oi, eu sou Gustavo Martins!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full+Stack;Backend+com+Java;Frontend+com+Angular;Sempre+aprendendo+novas+tecnologias&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full+Stack;Preferência+em+Backend+com+Java;Frontend+com+Angular;Sempre+aprendendo+novas+tecnologias&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://avatars.githubusercontent.com/u/103002928?v=4" width="320" />
 <hr>
 
 GustavoHTM@github <br>
-💻 Sou um desenvolvedor Full Stack com experiência em Java no backend e Angular no frontend. <br>
-📚 Tenho forte interesse em desenvolvimento web e arquiteturas de software. <br>
-🔭 Trabalhando em projetos de sistemas corporativos e APIs REST. <br>
-🌱 Sempre aprendendo novas tecnologias e boas práticas de programação. <br>
+💻 Sou um desenvolvedor Full Stack com forte preferência por desenvolvimento backend, principalmente com Java. <br>
+📚 Tenho forte interesse em arquitetura de software e desenvolvimento de sistemas corporativos. <br>
+🔭 Trabalhando em projetos de APIs REST e sistemas de grande escala. <br>
+🌱 Sempre buscando aprender novas tecnologias e boas práticas de programação. <br>
 🌟 Principais linguagens: Java, Angular-CLI <br>
 🚩 Interesse em arquitetura e desenvolvimento de backend. <br>
 💖 Em um relacionamento sério com o java2pojo. <br>
@@ -31,6 +31,7 @@ GustavoHTM@github <br>
     <a href="https://github.com/search?q=user%3AGustavoHTM+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3AGustavoHTM+is%3Arepo+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%230073CF.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AGustavoHTM+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks e Bibliotecas
@@ -42,12 +43,20 @@ GustavoHTM@github <br>
     <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23007A6C.svg?logo=hibernate&logoColor=white"></a>
 </p>
 
-### 🗄️ Bancos de Dados e Hospedagem na Nuvem
+### 🌐 Tecnologias de Frontend
+
+<p>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+</p>
+
+### 🗄️ Bancos de Dados e Cloud
 
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
 </p>
 
@@ -56,19 +65,22 @@ GustavoHTM@github <br>
 <p>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-%232C2255.svg?logo=eclipse&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white"></a>
 </p>
 
 ### 👨🏽‍💻 Ambiente de Trabalho
 <p>
-    <a href="#"><img alt="Laptop" src="https://img.shields.io/badge/Dell-Inspiron_7577-999999?style=for-the-badge&logo=dell&logoColor=white"></a>
-    <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="YouTube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
+    <a href="#"><img alt="Terminal" src="https://img.shields.io/badge/Terminal%20-%234D4D4D.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
 </p>
 
 
 ## GitHub Stats
-
 
 |                                                                     Minhas Estatísticas                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
