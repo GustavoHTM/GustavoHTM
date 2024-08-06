@@ -8,17 +8,17 @@ Oi, eu sou Gustavo Martins!
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full+Stack;Backend+com+Java;Frontend+com+Angular;Sempre+aprendendo+novas+tecnologias&center=true&width=380&height=45"></a>
 </p>
 
-<img align="left" src="https://github.com/GustavoHTM/GustavoHTM/blob/main/cropped_image.png" width="320" />
+<img align="left" src="https://avatars.githubusercontent.com/u/103002928?v=4" width="320" />
 <hr>
 
-GustavoHTM@github
-💻 Sou um desenvolvedor Full Stack com experiência em Java no backend e Angular no frontend.
-📚 Tenho forte interesse em desenvolvimento web e arquiteturas de software.
-🔭 Trabalhando em projetos de sistemas corporativos e APIs REST.
-🌱 Sempre aprendendo novas tecnologias e boas práticas de programação.
-🌟 Principais linguagens: Java, Angular-CLI
-🚩 Interesse em arquitetura e desenvolvimento de backend.
-💖 Em um relacionamento sério com o java2pojo.
+GustavoHTM@github <br>
+💻 Sou um desenvolvedor Full Stack com experiência em Java no backend e Angular no frontend. <br>
+📚 Tenho forte interesse em desenvolvimento web e arquiteturas de software. <br>
+🔭 Trabalhando em projetos de sistemas corporativos e APIs REST. <br>
+🌱 Sempre aprendendo novas tecnologias e boas práticas de programação. <br>
+🌟 Principais linguagens: Java, Angular-CLI <br>
+🚩 Interesse em arquitetura e desenvolvimento de backend. <br>
+💖 Em um relacionamento sério com o java2pojo. <br>
 <hr>
 
 
