@@ -22,16 +22,19 @@ GustavoHTM@github <br>
 <hr>
 
 <br>
-## 🛠️ Minhas Ferramentas Favoritas
+### 🛠️ Minhas Ferramentas Favoritas
 
-### 👨‍💻 Linguagens de Programação
+### 👨‍💻 Tecnologias de Programação
 
 <p>
     <a href="https://github.com/search?q=user%3AGustavoHTM+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AGustavoHTM+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3AGustavoHTM+is%3Arepo+language%3Atypescript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%230073CF.svg?logo=typescript&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AGustavoHTM+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
-    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks e Bibliotecas
@@ -43,14 +46,6 @@ GustavoHTM@github <br>
     <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23007A6C.svg?logo=hibernate&logoColor=white"></a>
 </p>
 
-### 🌐 Tecnologias de Frontend
-
-<p>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
-</p>
-
 ### 🗄️ Bancos de Dados e Cloud
 
 <p>
@@ -58,6 +53,7 @@ GustavoHTM@github <br>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white"></a>
 </p>
 
 ### 💻 Software e Ferramentas
@@ -69,7 +65,6 @@ GustavoHTM@github <br>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white"></a>
 </p>
 
 ### 👨🏽‍💻 Ambiente de Trabalho
