@@ -1,7 +1,7 @@
 <h1 align="center">
 Oi, eu sou Gustavo Martins!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://komarev.com/ghpvc/?username=GustavoHTM" alt="Profile views" align='right'/> <a href="https://github.com/GustavoHTM"> </a> 
+<!--  <img src="https://komarev.com/ghpvc/?username=GustavoHTM" alt="Profile views" align='right'/> <a href="https://github.com/GustavoHTM"> </a>  -->
 <br/>
 
 <p align="center">
