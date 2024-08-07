@@ -22,8 +22,6 @@ Oi, eu sou Gustavo Martins!
 🤓 Possuo conhecimento em Backend, Frontend, Android, DB, IA, Blockchain e se virar em casos de necessidade. <br>
 <hr>
 
-<br>
-
 <h3 align="center">🛠️ Minhas Ferramentas Favoritas</h3>
 
 <br>
@@ -90,7 +88,7 @@ Oi, eu sou Gustavo Martins!
   <a href="https://www.codewars.com/users/GustavoHTM"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white"></a>
 </p>
 
-
+<!--
 ## GitHub Stats
 
 |                                                                     Minhas Estatísticas                                                                     |
@@ -103,7 +101,7 @@ Oi, eu sou Gustavo Martins!
 |                                                                                                      Meus Stars                                                                                                       |                                                           Top Linguagens                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=GustavoHTM&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHTM&langs_count=8&theme=algolia&layout=compact) |
-
+-->
 
 
 
