@@ -18,6 +18,7 @@ Oi, eu sou Gustavo Martins!
 🌟 Principais linguagens: Java, Angular-CLI <br>
 🚩 Interesse em arquitetura e desenvolvimento de backend. <br>
 💖 Em um relacionamento sério com o java2pojo. <br>
+🧠 Aprimorando a criação e uso de Inteligência Artificial
 <hr>
 
 <br>
