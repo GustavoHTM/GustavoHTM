@@ -42,7 +42,7 @@ GustavoHTM@github <br>
 <p>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?logo=spring&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23007A6C.svg?logo=hibernate&logoColor=white"></a>
 </p>
 
