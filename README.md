@@ -87,7 +87,7 @@ GustavoHTM@github <br>
 
 |                                                                     Minhas Estatísticas                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Meu gráfico de atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GustavoHTM) |
+| ![Meu gráfico de atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GustavoHTM&theme=react-dark&hide_title=true) |
 | ![Minhas estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=GustavoHTM&show_icons=true&theme=algolia)              | 
 | ![Meu streak no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=GustavoHTM&theme=algolia)                    | 
     
