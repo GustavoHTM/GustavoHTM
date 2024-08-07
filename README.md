@@ -5,7 +5,7 @@ Oi, eu sou Gustavo Martins!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full+Stack;Preferência+em+Backend+com+Java;Frontend+com+Angular;Sempre+aprendendo+novas+tecnologias&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full+Stack;Java+e+Angular;Sempre+estudando+novas+tecnologias&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://avatars.githubusercontent.com/u/103002928?v=4" width="320" />
