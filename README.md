@@ -42,36 +42,36 @@ GustavoHTM@github <br>
 <p>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring%20-%236DB33F.svg?logo=spring&logoColor=white"></a>
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23007A6C.svg?logo=hibernate&logoColor=white"></a>
 </p>
 
 ### 🗄️ Bancos de Dados e Cloud
 
 <p>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300000F.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white"></a>
 </p>
 
 ### 💻 Software e Ferramentas
 
 <p>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white"></a>
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse%20-%232C2255.svg?logo=eclipse&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%232C2255.svg?logo=eclipse&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
 </p>
 
 ### 👨🏽‍💻 Ambiente de Trabalho
 <p>
-    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
-    <a href="#"><img alt="YouTube Music" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"></a>
-    <a href="#"><img alt="Terminal" src="https://img.shields.io/badge/Terminal%20-%234D4D4D.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img alt="YouTube Music" src="https://img.shields.io/badge/YouTube_Music-%23FF0000.svg?logo=youtube-music&logoColor=white"></a>
+    <a href="#"><img alt="Terminal" src="https://img.shields.io/badge/Terminal%20-%234D4D4D.svg?logo=gnu-bash&logoColor=white"></a>
 </p>
 
 
