@@ -11,7 +11,7 @@ Oi, eu sou Gustavo Martins!
 <img align="left" src="https://avatars.githubusercontent.com/u/103002928?v=4" width="320" />
 <hr>
 
-💻 Sou um desenvolvedor Full Stack com forte preferência por desenvolvimento backend, principalmente com Java. <br>
+💻 Sou um desenvolvedor Full Stack com preferência por desenvolvimento backend, principalmente com Java. <br>
 📚 Tenho forte interesse em arquitetura de software e desenvolvimento de sistemas corporativos. <br>
 🔭 Trabalhando em projetos de APIs REST e sistemas de grande escala. <br>
 🌱 Sempre buscando aprender novas tecnologias e boas práticas de programação. <br>
