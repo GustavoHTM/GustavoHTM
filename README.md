@@ -105,19 +105,9 @@ GustavoHTM@github <br>
 
 ## Vamos Trabalhar Juntos!
 
-Se você tiver alguma dúvida sobre desenvolvimento web, fique à vontade para <a href="mailto:gustavomartins@example.com">me contactar por email</a>.
+Se você tiver alguma dúvida sobre desenvolvimento web ou android, fique à vontade para <a href="mailto:gu-gustavoh@hotmail.com">me contactar por email</a>.
 
 Você pode me contratar como freelancer no <a href="https://www.linkedin.com/in/GustavoHTM/">LinkedIn</a> para desenvolver seu projeto de software.
-
-  </td>
-  <td width="50%" valign="top">
-
-## Feedback é importante, não é?
-
-**<img alt="Feedback" src="https://img.shields.io/badge/Me%20pergunte-qualquer%20coisa-1abc9c.svg">**
-
-“Eu acho muito importante ter um loop de feedback, onde você está constantemente pensando sobre o que fez e como poderia fazer melhor.”
-– Elon Musk
 
   </td>
   </tr>
