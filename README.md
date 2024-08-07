@@ -80,8 +80,10 @@ Oi, eu sou Gustavo Martins!
     <a href="#"><img alt="Terminal" src="https://img.shields.io/badge/Terminal%20-%234D4D4D.svg?logo=gnu-bash&logoColor=white"></a>
 </p>
 
-### 📞 Meus Contatos e Mídias
-<p>
+<br>
+
+<h2 align="center">📞 Meus Contatos e Mídias</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/gustavo-htm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/gustavo.htm8/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:gu-gustavoh@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -103,11 +105,11 @@ Oi, eu sou Gustavo Martins!
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=GustavoHTM&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHTM&langs_count=8&theme=algolia&layout=compact) |
 -->
 
+<br>
 
-
-<table style="border: none">
+<table style="border: none" align="center">
   <tr>
-  <td width="50%" valign="top">
+  <td width="50%" valign="top" align="center">
 
 ## Vamos Trabalhar Juntos!
 
