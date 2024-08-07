@@ -99,7 +99,7 @@ GustavoHTM@github <br>
 
 
 
-<table style="border: none, margin: auto">
+<table style="border: none">
   <tr>
   <td width="50%" valign="top">
 
