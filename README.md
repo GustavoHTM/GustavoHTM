@@ -5,35 +5,40 @@ Oi, eu sou Gustavo Martins!
 <br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full+Stack;Java+e+Angular;Sempre+estudando+novas+tecnologias&center=true&width=380&height=45"></a>
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedor+Full+Stack;Java+e+Angular;Sempre+estudando+novas+tecnologias&center=true&width=380&height=45"></a> -->
 </p>
 
-<img align="left" src="https://avatars.githubusercontent.com/u/103002928?v=4" width="320" />
 <hr>
+<img align="left" src="https://avatars.githubusercontent.com/u/103002928?v=4" width="220" />
 
-💻 Sou um desenvolvedor Full Stack com preferência por desenvolvimento backend, principalmente com Java. <br>
-📚 Tenho forte interesse em arquitetura de software e desenvolvimento de sistemas corporativos. <br>
+💻 Sou um desenvolvedor Full Stack com preferência por desenvolvimento backend. <br>
+📚 Tenho forte interesse em arquitetura e desenvolvimento de software. <br>
 🔭 Trabalhando em projetos de APIs REST e sistemas de grande escala. <br>
 🌱 Sempre buscando aprender novas tecnologias e boas práticas de programação. <br>
 🌟 Principais linguagens: Java, Angular-CLI <br>
 🚩 Interesse em arquitetura e desenvolvimento de backend. <br>
 💖 Em um relacionamento sério com o java2pojo. <br>
-🧠 Aprimorando a criação e uso de Inteligência Artificial
+🧠 Aprimorando a criação e uso de Inteligência Artificial. <br>
+🤓 Possuo conhecimento em Backend, Frontend, Android, DB, IA, Blockchain e se virar em casos de necessidade. <br>
 <hr>
 
 <br>
-### 🛠️ Minhas Ferramentas Favoritas
+
+<h3 align="center">🛠️ Minhas Ferramentas Favoritas</h3>
+
+<br>
 
 ### 👨‍💻 Tecnologias de Programação
 
 <p>
-    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=coffeescript&logoColor=white"></a>
     <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?logo=kotlin&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=white"></a>
     <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%230073CF.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%23025E8C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
@@ -44,6 +49,8 @@ Oi, eu sou Gustavo Martins!
     <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23007A6C.svg?logo=hibernate&logoColor=white"></a>
+    <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23000000.svg?logo=yolo&logoColor=white"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=white"></a>
 </p>
 
 ### 🗄️ Bancos de Dados e Cloud
@@ -51,7 +58,7 @@ Oi, eu sou Gustavo Martins!
 <p>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300000F.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?logo=amazonaws&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?logo=amazonwebservices&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
     <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-%23DC382D.svg?logo=redis&logoColor=white"></a>
 </p>
