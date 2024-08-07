@@ -50,7 +50,7 @@ Oi, eu sou Gustavo Martins!
     <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?logo=tailwind-css&logoColor=white"></a>
     <a href="#"><img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-%23007A6C.svg?logo=hibernate&logoColor=white"></a>
     <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-%23000000.svg?logo=yolo&logoColor=white"></a>
-    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=white"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%2343853D.svg?logo=opencv&logoColor=white"></a>
 </p>
 
 ### 🗄️ Bancos de Dados e Cloud
@@ -66,9 +66,10 @@ Oi, eu sou Gustavo Martins!
 ### 💻 Software e Ferramentas
 
 <p>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%2330A14E.svg?logo=android-studio&logoColor=white"></a>
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%232C2255.svg?logo=eclipse&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%230078D7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
