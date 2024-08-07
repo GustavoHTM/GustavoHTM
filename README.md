@@ -74,6 +74,14 @@ GustavoHTM@github <br>
     <a href="#"><img alt="Terminal" src="https://img.shields.io/badge/Terminal%20-%234D4D4D.svg?logo=gnu-bash&logoColor=white"></a>
 </p>
 
+Meus Contatos
+<p>
+  <a href="https://www.linkedin.com/in/gustavo-htm/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/gustavo.htm8/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:gu-gustavoh@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.codewars.com/users/GustavoHTM"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-%23AD2C27.svg?style=for-the-badge&logo=codewars&logoColor=white"></a>
+</p>
+
 
 ## GitHub Stats
 
